@@ -1,0 +1,404 @@
+{
+  "tags": [
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 456
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Aurelia",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Mentor",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Polymer",
+      "amountOfVideos": 4
+    },
+    {
+      "title": "Mithril",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 14
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 456
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Aurelia",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Mentor",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Polymer",
+      "amountOfVideos": 4
+    },
+    {
+      "title": "Mithril",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 14
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 456
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Aurelia",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Mentor",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Polymer",
+      "amountOfVideos": 4
+    },
+    {
+      "title": "Mithril",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 14
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 456
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Aurelia",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Mentor",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Polymer",
+      "amountOfVideos": 4
+    },
+    {
+      "title": "Mithril",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 14
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 456
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Aurelia",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Mentor",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Polymer",
+      "amountOfVideos": 4
+    },
+    {
+      "title": "Mithril",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 14
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 456
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Aurelia",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Mentor",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Polymer",
+      "amountOfVideos": 4
+    },
+    {
+      "title": "Mithril",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 14
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 456
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Aurelia",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Mentor",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Polymer",
+      "amountOfVideos": 4
+    },
+    {
+      "title": "Mithril",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 14
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 456
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Aurelia",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Mentor",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Polymer",
+      "amountOfVideos": 4
+    },
+    {
+      "title": "Mithril",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 14
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 456
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Aurelia",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Mentor",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Polymer",
+      "amountOfVideos": 4
+    },
+    {
+      "title": "Mithril",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 14
+    },
+    {
+      "title": "React",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 456
+    },
+    {
+      "title": "Angular",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Svelte",
+      "amountOfVideos": 45
+    },
+    {
+      "title": "Java",
+      "amountOfVideos": 65
+    },
+    {
+      "title": "Aurelia",
+      "amountOfVideos": 142
+    },
+    {
+      "title": "Mentor",
+      "amountOfVideos": 200
+    },
+    {
+      "title": "Polymer",
+      "amountOfVideos": 4
+    },
+    {
+      "title": "Mithril",
+      "amountOfVideos": 42
+    },
+    {
+      "title": "Vue",
+      "amountOfVideos": 14
+    }
+  ]
+}
